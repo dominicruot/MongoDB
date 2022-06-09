@@ -10,3 +10,5 @@
 - NoSQL db doesn't adhere to relational model.
 
 ![Relatopnal To MongoDB](https://beginnersbook.com/wp-content/uploads/2017/09/RDBMS_MongoDB_Mapping.jpg "Optional title")
+
+### Using the MongoDB Shell
