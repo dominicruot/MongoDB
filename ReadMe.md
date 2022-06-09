@@ -2,7 +2,7 @@
 
 ## Notes:
 
-> MongoDB represents a radical and much needed departure from relational database technology
+MongoDB represents a radical and much needed departure from relational database technology
 
 ### What is NoSQL?
 
