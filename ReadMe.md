@@ -12,3 +12,7 @@
 ![Relatopnal To MongoDB](https://beginnersbook.com/wp-content/uploads/2017/09/RDBMS_MongoDB_Mapping.jpg "Optional title")
 
 ### Using the MongoDB Shell
+- Performing Simple Queries
+- Database and Collection Operations
+- Creating, Updating, or Deleting Documents
+- Creating and Running Shell Scripts
